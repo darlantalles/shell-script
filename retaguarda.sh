@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#
 # Script para permitir a execução de um lote de Java applications via background.
 #  
 # Use: $0 (start|stop|restart|status) [Nome Retaguarda]
